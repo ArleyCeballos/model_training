@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+flask
+pandas
+scikit-learn
+joblib
+matplotlib
+requests
+pytest
+pytest-cov

@@ -1,0 +1,34 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.pkl
+*.env  # Si estás usando variables de entorno
+*.log
+*.json
+*.html
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.tar.gz
+*.sql
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+prueba/
+pytest_cache/
